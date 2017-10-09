@@ -1,6 +1,7 @@
 # GroceryListApp
 
 ##A simple grocery list application which implements the ArrayList <E> class in Java. The functionalities of the application include:
+
  0. Print app choice options.
  1. Print the list of grocery items.
  2. Add an item to the list.
